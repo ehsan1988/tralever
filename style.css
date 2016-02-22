@@ -1,0 +1,28 @@
+*{
+    border-radius: 0 !important;
+}
+#head{
+background: #ebebeb;
+}
+#head form input[type=search]{
+    border: 0;
+    background-color: #ffffff;
+}
+#head a{
+    margin: 20px 20px 0 0;
+}
+#head a span{
+    top: 5px;
+    right: 30px;
+    color: #5b169e;
+    font-size: 20px;
+}
+#head img{
+    position: relative;
+    right: -25px;
+}
+.nav2{
+    background: none;
+    border: none;
+    margin-right: 245px;
+}
